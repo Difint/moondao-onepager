@@ -1,0 +1,71 @@
+<mxfile host="65bd71144e">
+    <diagram id="tWWOjPDEjxU7xBR3OxQ6" name="Page-1">
+        <mxGraphModel dx="1120" dy="1046" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="&lt;h1&gt;Links&lt;/h1&gt;&lt;p&gt;1. &lt;a href=&quot;https://docs.google.com/document/d/1-CFz5qIFkGV5eYsiRan5y49yKIS5MN0qeMBizcvfIA0/edit&quot;&gt;Onboarding project copywriting&lt;/a&gt;&lt;/p&gt;&lt;p&gt;2.&lt;a href=&quot;https://twitter.com/OfficialMoonDAO&quot;&gt;Twitter account&lt;/a&gt;&lt;/p&gt;&lt;p&gt;3.&lt;a href=&quot;http://discord.gg/5nAu7K9aES&quot;&gt;Discord&lt;/a&gt;&lt;/p&gt;&lt;p&gt;4.&lt;a href=&quot;https://moondao.com&quot;&gt;Website&lt;/a&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="30" y="40" width="210" height="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" style="edgeStyle=none;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3" target="19">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="Part-time member" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="26">
+                    <mxGeometry x="-0.1303" y="-4" relative="1" as="geometry">
+                        <mxPoint y="-1" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="3" value="&lt;span style=&quot;text-align: left&quot;&gt;@Moon Settlers&amp;nbsp;&lt;/span&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="370" y="380" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="Can TopUp" style="edgeStyle=none;html=1;" edge="1" parent="1" source="4" target="6">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="&lt;span style=&quot;text-align: left&quot;&gt;@Astronauts&lt;/span&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="380" y="85" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="Dao" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="540" y="40" width="140" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="Worksream A" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="515" y="160" width="140" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Daily life of MoonDAO community&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="10" y="480" width="430" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" style="edgeStyle=none;html=1;" edge="1" parent="1" source="19" target="6">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="Active member" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="25">
+                    <mxGeometry x="-0.0337" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="19" value="&lt;span style=&quot;text-align: left&quot;&gt;@Rocketeer&amp;nbsp;&lt;/span&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="440" y="230" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="&lt;span style=&quot;text-align: left&quot;&gt;@Voyager&amp;nbsp;&lt;br&gt;Non-Active&lt;br&gt;&lt;/span&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="330" y="190" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="&lt;h1&gt;How to join&lt;/h1&gt;&lt;p&gt;1. Step 1&lt;/p&gt;&lt;p&gt;2. Step 2&lt;/p&gt;&lt;p&gt;3. Step 3&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="930" y="20" width="210" height="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="&lt;h1&gt;Payroll&lt;/h1&gt;&lt;p&gt;1. Step 1&lt;/p&gt;&lt;p&gt;2. Step 2&lt;/p&gt;&lt;p&gt;3. Step 3&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="930" y="260" width="210" height="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="39" value="&lt;h1&gt;Social&lt;/h1&gt;&lt;p&gt;&amp;nbsp;Everyone on earth needs to socialize. In the MoonDAO community, you can MeMe with many like-minded friends, read a valuable book together, listen to wonderful music together, chat happily together, and imagine the future space together DiDi in life. Of course, before that, you may need to briefly introduce yourself and let everyone know: Hi! We have a new partner landing on the moon base. Oh! Don't forget, if you're a Mooney holder, you can go to the #join-lounge channel to get the holder role, a symbol of governance in our community.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="30" y="530" width="260" height="600" as="geometry"/>
+                </mxCell>
+                <mxCell id="40" value="&lt;h1&gt;Governance&lt;/h1&gt;&lt;p&gt;&amp;nbsp;Participating in community governance is the basic right and obligation of every community member, and the voice of every member in the DAO should be heard. To this end, we establish discussion channels for various decisions in discord, or establish discussion topics on discourse to discuss various resolutions of the community, and sometimes hold voice conferences to unify everyone's opinions, and finally form a complete proposal, Send it to the snapshot voting platform to vote on the right of universal governance. When the approval rate of a proposal reaches 51%, it can be confirmed that the issue has been officially adopted by the community and authorized to the team to carry out relevant actions.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="320" y="530" width="260" height="600" as="geometry"/>
+                </mxCell>
+                <mxCell id="41" value="&lt;h1&gt;Contribution (work)&lt;/h1&gt;&lt;p&gt;MoonDAO doesn't work like most traditional corporate organizations, in fact, we never intended to be a &quot;company&quot; in the traditional sense. We are a DAO, which means that anyone in the world can contribute to and get paid for MoonDAO. We are working towards a transition to full decentralization, where all work in the community is done openly and anyone can jump in and start helping. MoonDAO's contributors are mostly in discord for collaborative work and friendly exchanges. Our current working model is mainly Project project-based. The Project work system means that when community members have very good ideas, they can seek authorization from the community in the form of project initiation proposals. Once the proposal is voted on in snapshot, the project team can start their work and communicate the project to the community in a timely manner. progress. We have opened a #project-vote channel for all projects initiated by applications to conduct pre-voting. Project leaders can write proposals and post them here, allowing the community to choose which projects should be voted on in snapshots; Projects passed by the community have active-project groupings, where all community members can see the specific progress of related projects. If you want to join them, please take the initiative to contact the project leader and add you to their team. You can send information in these channels. When a project completes its mission, in the next round of coordinape cycle, the community will allocate a reasonable total amount of incentives to the project, and redistribute it within the project team, striving to achieve a reasonable incentive system quantified by contribution.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="610" y="530" width="260" height="600" as="geometry"/>
+                </mxCell>
+                <mxCell id="42" value="&lt;h1&gt;Guilds&lt;/h1&gt;&lt;p&gt;&amp;nbsp;The guild association is a prepetual motion machine that maintains the normal operation of the MoonDAO community. They are responsible for the daily affairs of the community and engage in some relatively fixed work to make the community more harmonious and the message transmission more transparent and timely. At present, there are community design associations, business associations, builders associations, space associations, media associations, and writers associations in the community. They are the talent pool of MoonDAO, which brings together a large number of outstanding talents in the traditional Web2 world according to their fields of expertise. The contributors of MoonDAO live here, drink and talk here, learn from each other here, and let different cultures, ideas, and knowledge collide and blend here, resulting in wonderful chemical reactions.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="900" y="530" width="260" height="600" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
