@@ -19,3 +19,8 @@ This file uses [diagrams.net(former drawio)](https://github.com/jgraph/drawio-de
 ## Result
 
 ![Draft diagram](moondao_onepager.svg "Draft diagram")
+
+
+# Governance voting data
+
+Also you can find CSV file with voting data in this repo.
